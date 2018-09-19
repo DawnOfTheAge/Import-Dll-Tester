@@ -1,0 +1,22 @@
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.exe.config
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.exe
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.pdb
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.csprojResolveAssemblyReference.cache
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import_Dll_Tester.frmMain.resources
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import_Dll_Tester.Properties.Resources.resources
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.csproj.GenerateResource.Cache
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.exe
+C:\Projects\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.pdb
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugin Interface.dll
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugin Interface.pdb
+E:\Projects C\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.exe.config
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.exe
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.pdb
+E:\Projects C\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.exe
+E:\Projects C\Import Dll Tester\Import Dll Tester\bin\Debug\Import Dll Tester.pdb
+E:\Projects C\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugin Interface.dll
+E:\Projects C\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugin Interface.pdb
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.csprojResolveAssemblyReference.cache
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import_Dll_Tester.frmMain.resources
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import_Dll_Tester.Properties.Resources.resources
+E:\Projects C\Import Dll Tester\Import Dll Tester\obj\Debug\Import Dll Tester.csproj.GenerateResource.Cache

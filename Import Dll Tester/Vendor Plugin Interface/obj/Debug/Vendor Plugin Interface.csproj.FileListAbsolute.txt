@@ -1,0 +1,5 @@
+C:\Projects\Import Dll Tester\Vendor Plugin Interface\bin\Debug\Vendor Plugin Interface.dll
+C:\Projects\Import Dll Tester\Vendor Plugin Interface\bin\Debug\Vendor Plugin Interface.pdb
+C:\Projects\Import Dll Tester\Vendor Plugin Interface\obj\Debug\Vendor Plugin Interface.dll
+C:\Projects\Import Dll Tester\Vendor Plugin Interface\obj\Debug\Vendor Plugin Interface.pdb
+C:\Projects\Import Dll Tester\Vendor Plugin Interface\obj\Debug\Vendor Plugin Interface.csprojResolveAssemblyReference.cache

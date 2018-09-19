@@ -1,0 +1,9 @@
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML Database.csprojResolveAssemblyReference.cache
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML_Database.frmMain.resources
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML_Database.Properties.Resources.resources
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML Database.csproj.GenerateResource.Cache
+C:\Projects\Import Dll Tester\XML Database\bin\Debug\XML Database.exe.config
+C:\Projects\Import Dll Tester\XML Database\bin\Debug\XML Database.exe
+C:\Projects\Import Dll Tester\XML Database\bin\Debug\XML Database.pdb
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML Database.exe
+C:\Projects\Import Dll Tester\XML Database\obj\Debug\XML Database.pdb

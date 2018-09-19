@@ -1,0 +1,5 @@
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugins\Just Another Dll.dll
+C:\Projects\Import Dll Tester\Import Dll Tester\bin\Debug\Vendor Plugins\Just Another Dll.pdb
+C:\Projects\Import Dll Tester\Just Another Dll\obj\Debug\Just Another Dll.dll
+C:\Projects\Import Dll Tester\Just Another Dll\obj\Debug\Just Another Dll.pdb
+C:\Projects\Import Dll Tester\Just Another Dll\obj\Debug\Just Another Dll.csprojResolveAssemblyReference.cache
